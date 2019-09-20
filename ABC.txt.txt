@@ -1,1 +1,2 @@
-most a bugfixben valtoztatom meg2
+most a masterben valtoztatom meg
+es mergelem ezzel
